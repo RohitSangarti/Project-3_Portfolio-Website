@@ -1,4 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/13566302-c5cb-4f90-afc1-7e3111b078e5/deploy-status)](https://rohithportfoliowebsite.netlify.app/) [MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13566302-c5cb-4f90-afc1-7e3111b078e5/deploy-status)](https://rohithportfoliowebsite.netlify.app/) ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # 🌟 Project-3_Portfolio-Website
 
 Welcome to my **Personal Portfolio Website**, a comprehensive showcase of my skills, projects, and professional journey. The website is developed using **HTML**, **CSS**, and **JavaScript**, with a focus on clean, responsive design and interactive elements.
